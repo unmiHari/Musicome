@@ -17,7 +17,7 @@ Musicome is an Android music player similar to Apple Music, developed by Jetpack
 
 ## 关于
 联系我们：
-### 🐧1044019940
+### QQ聊群 1044019940
 ### TG频道 @Corannet
 
 ## 依赖

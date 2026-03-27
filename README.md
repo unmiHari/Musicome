@@ -5,6 +5,7 @@ A simple music player.
 
 ## 介绍
 Musicome 是由 Jetpack Compose 开发的 Android 仿 Apple Music 播放器。
+
 Musicome is an Android music player similar to Apple Music, developed by Jetpack Compose.
 
 ## 功能

@@ -1,6 +1,7 @@
 ![封面](./image/image1.png)
 # Musicome
 一简单的音乐播放器。
+
 A simple music player.
 
 ## 介绍

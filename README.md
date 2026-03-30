@@ -1,4 +1,4 @@
-![封面](./image/image1.png)
+![封面](./image/image1.jpg)
 # Musicome
 一简单的音乐播放器。
 

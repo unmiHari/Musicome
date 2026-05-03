@@ -18,4 +18,4 @@ Musicome is an Android music player developed by Jetpack Compose that mimics App
 ## 关于
 联系我们：
 ### QQ聊群 1044019940
-### TG频道 @Corannet
+### TG频道 @Mus1come
